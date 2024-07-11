@@ -1,0 +1,188 @@
+﻿  stdafx.cpp
+  BulletX.cpp
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\BulletX.cpp(17,16): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FlagY.cpp
+  MonsterX1.cpp
+  MonsterX2.cpp
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterX2.cpp(32,58): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterX2.cpp(33,58): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterX2.cpp(37,58): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterX2.cpp(38,58): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterX2.cpp(56,25): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterX2.cpp(85,58): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterX2.cpp(86,58): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterX2.cpp(89,58): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterX2.cpp(90,58): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterX2.cpp(116,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterX2.cpp(115,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterX2.cpp(114,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterX2.cpp(113,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterX2.cpp(122,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterX2.cpp(121,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterX2.cpp(120,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterX2.cpp(119,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterX2.cpp(128,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterX2.cpp(127,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterX2.cpp(126,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterX2.cpp(125,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MonsterZ1.cpp
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(82,50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(82,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(85,49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(85,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(91,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(91,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(92,49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(92,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(93,49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(93,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(94,49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(94,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(96,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(96,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(97,49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(97,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(98,49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(98,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(102,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(102,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(103,49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(103,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(104,49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(104,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(105,49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(105,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(107,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(107,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(108,49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(108,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(109,49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\MonsterZ1.cpp(109,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CollisionMgr.cpp
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\CollisionMgr.cpp(41,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DefaultWindow.cpp
+  KeyMgr.cpp
+  MainGame.cpp
+  MyButton.cpp
+  MyMenu.cpp
+  Obj.cpp
+  ObjMgr.cpp
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\ObjMgr.cpp(134,26): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+  PlayerX.cpp
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerX.cpp(13,15): warning C4244: '초기화 중': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerX.cpp(119,52): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerX.cpp(121,52): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerX.cpp(139,52): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerX.cpp(140,52): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerX.cpp(153,9): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerX.cpp(155,9): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerX.cpp(166,43): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerX.cpp(167,43): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerX.cpp(180,50): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerX.cpp(181,50): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerX.cpp(387,46): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerX.cpp(388,66): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PlayerY.cpp
+  PlayerZ.cpp
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(112,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(112,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(113,76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(113,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(114,76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(114,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(115,76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(115,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(117,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(117,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(118,76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(118,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(119,76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(119,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(120,76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(120,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(123,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(123,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(126,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(126,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(128,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(128,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(131,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(131,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(133,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(133,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(134,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(134,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(136,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(136,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(139,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(139,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(142,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(142,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(145,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(145,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(147,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(147,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(150,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(150,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(153,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(153,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(154,67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(154,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(155,67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(155,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(156,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(156,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(158,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(158,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(159,67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(159,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(160,67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(160,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(161,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(161,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(164,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(164,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(165,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(165,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(166,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(166,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(167,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(167,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(170,118): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(170,91): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(170,64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(170,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(171,118): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(171,91): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(171,64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(171,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(173,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(173,67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(173,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\PlayerZ.cpp(173,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SceneMgr.cpp
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\SceneMgr.cpp(77,27): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Stage.cpp
+  StageX.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  StageY.cpp
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\StageY.cpp(73,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\StageY.cpp(73,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\StageY.cpp(74,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\StageY.cpp(74,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\StageY.cpp(76,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\StageY.cpp(76,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\StageY.cpp(77,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\StageY.cpp(77,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StageZ.cpp
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\StageZ.cpp(51,32): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Status.cpp
+  UIHeart.cpp
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\UIHeart.cpp(47,50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\UIHeart.cpp(47,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\UIHeart.cpp(50,49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\DefaultWindow\UIHeart.cpp(50,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  DefaultWindow.vcxproj -> E:\★쥬신\3차 팀 과제 1조\3차 팀 과제\Debug\DefaultWindow.exe

@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="00. MainGame">
+      <UniqueIdentifier>{8473f2d0-958e-4a8e-8e35-5cda81fea701}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj">
+      <UniqueIdentifier>{bf5f56f5-1c40-4447-9064-6ff7a6e3de81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\00. Player">
+      <UniqueIdentifier>{ff634392-fe40-4b17-a25a-a139a673d72e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mgr">
+      <UniqueIdentifier>{5c99afe5-8f12-4ef6-8a18-835e22b1b292}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mgr\CollisionMgr">
+      <UniqueIdentifier>{82e9fb45-4fe6-4f00-9f1b-135f86d76fae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mgr\ObjMgr">
+      <UniqueIdentifier>{52e1b8ce-9bdb-48bc-93cd-1589c8580964}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mgr\SceneMgr">
+      <UniqueIdentifier>{3885961b-70ca-436a-8634-8a1d52f6276e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stage">
+      <UniqueIdentifier>{fa5d6c09-a1ce-402e-bc05-e5ca589f3dde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stage\StageX">
+      <UniqueIdentifier>{9cbe571b-c018-42f8-a671-c68053bf2f5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stage\StageY">
+      <UniqueIdentifier>{6f1acc81-8c05-46ef-9a2c-e9b18abcc5a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stage\StageZ">
+      <UniqueIdentifier>{6fd201c6-991e-465f-b2e8-52427761e044}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\00. Player\PlayerX">
+      <UniqueIdentifier>{3c2bc190-7204-44f7-91a5-0201c9ed6d26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\00. Player\PlayerY">
+      <UniqueIdentifier>{f7bb5878-0d61-4de3-9e8b-bbc8dee84072}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\00. Player\PlayerZ">
+      <UniqueIdentifier>{ff767c41-a0b2-4911-a5e9-51a6f0b2ec87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mgr\KeyMgr">
+      <UniqueIdentifier>{fc578c06-4dde-46da-b350-7eb49b12944b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. MainGame\Status">
+      <UniqueIdentifier>{d39faee9-3461-4515-9298-74ebb133203c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\UI">
+      <UniqueIdentifier>{493a5331-a89a-4e2c-a63c-4b93fa95be92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\Monster">
+      <UniqueIdentifier>{57239d86-d09e-494b-8466-a770fbf0f2a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\Monster\MonsterZ1">
+      <UniqueIdentifier>{2213b9ec-0e91-41ac-b2bc-90103c931022}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\Flag">
+      <UniqueIdentifier>{57d5fa1e-47b8-49f6-a74e-3860db041841}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\Flag\FlagY">
+      <UniqueIdentifier>{f9e93a4d-5a54-4339-a817-bd63d9f6ef31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\Monster\MonsterX1">
+      <UniqueIdentifier>{435b7a50-ea89-4c99-ac30-a4679095ed18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\Monster\MonsterX2">
+      <UniqueIdentifier>{d01d6148-e3ee-488d-9103-c8ffab407369}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\Bullet">
+      <UniqueIdentifier>{1037af81-2362-451d-87c9-0ec969f2b2fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\Button">
+      <UniqueIdentifier>{bb7e42a3-6646-459e-bc38-96714d2f164d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stage\Menu">
+      <UniqueIdentifier>{9ee2f6d2-96fb-40fc-947f-d9f9a9e87c3f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DefaultWindow.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>00. MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Obj.h">
+      <Filter>01. Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>01. Obj\00. Player</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionMgr.h">
+      <Filter>Mgr\CollisionMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneMgr.h">
+      <Filter>Mgr\SceneMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjMgr.h">
+      <Filter>Mgr\ObjMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage.h">
+      <Filter>Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="StageX.h">
+      <Filter>Stage\StageX</Filter>
+    </ClInclude>
+    <ClInclude Include="StageY.h">
+      <Filter>Stage\StageY</Filter>
+    </ClInclude>
+    <ClInclude Include="StageZ.h">
+      <Filter>Stage\StageZ</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerX.h">
+      <Filter>01. Obj\00. Player\PlayerX</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyMgr.h">
+      <Filter>Mgr\KeyMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerZ.h">
+      <Filter>01. Obj\00. Player\PlayerZ</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterZ1.h">
+      <Filter>01. Obj\Monster\MonsterZ1</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerY.h">
+      <Filter>01. Obj\00. Player\PlayerY</Filter>
+    </ClInclude>
+    <ClInclude Include="Status.h">
+      <Filter>00. MainGame\Status</Filter>
+    </ClInclude>
+    <ClInclude Include="UIHeart.h">
+      <Filter>01. Obj\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="FlagY.h">
+      <Filter>01. Obj\Flag\FlagY</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterX1.h">
+      <Filter>01. Obj\Monster\MonsterX1</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterX2.h">
+      <Filter>01. Obj\Monster\MonsterX2</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletX.h">
+      <Filter>01. Obj\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="MyMenu.h">
+      <Filter>Stage\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="MyButton.h">
+      <Filter>01. Obj\Button</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DefaultWindow.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>00. MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Obj.cpp">
+      <Filter>01. Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>01. Obj\00. Player</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionMgr.cpp">
+      <Filter>Mgr\CollisionMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneMgr.cpp">
+      <Filter>Mgr\SceneMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjMgr.cpp">
+      <Filter>Mgr\ObjMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage.cpp">
+      <Filter>Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="StageX.cpp">
+      <Filter>Stage\StageX</Filter>
+    </ClCompile>
+    <ClCompile Include="StageY.cpp">
+      <Filter>Stage\StageY</Filter>
+    </ClCompile>
+    <ClCompile Include="StageZ.cpp">
+      <Filter>Stage\StageZ</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerX.cpp">
+      <Filter>01. Obj\00. Player\PlayerX</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyMgr.cpp">
+      <Filter>Mgr\KeyMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerZ.cpp">
+      <Filter>01. Obj\00. Player\PlayerZ</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterZ1.cpp">
+      <Filter>01. Obj\Monster\MonsterZ1</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerY.cpp">
+      <Filter>01. Obj\00. Player\PlayerY</Filter>
+    </ClCompile>
+    <ClCompile Include="Status.cpp">
+      <Filter>00. MainGame\Status</Filter>
+    </ClCompile>
+    <ClCompile Include="UIHeart.cpp">
+      <Filter>01. Obj\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="FlagY.cpp">
+      <Filter>01. Obj\Flag\FlagY</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterX1.cpp">
+      <Filter>01. Obj\Monster\MonsterX1</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterX2.cpp">
+      <Filter>01. Obj\Monster\MonsterX2</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletX.cpp">
+      <Filter>01. Obj\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="MyMenu.cpp">
+      <Filter>Stage\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="MyButton.cpp">
+      <Filter>01. Obj\Button</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DefaultWindow.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="DefaultWindow.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
